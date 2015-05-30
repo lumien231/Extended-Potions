@@ -1,0 +1,16 @@
+[
+{
+  "modid": "ExtendedPotions",
+  "name": "Extended Potions",
+  "description": "Increases the potion id limit.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["lumien"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
